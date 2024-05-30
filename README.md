@@ -68,3 +68,29 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Code Include :
+
+node -v
+npm -v
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+brew install node
+npm install -g create-react-app
+create-react-app testreactapp
+cd testreactapp
+
+npm start
+
+# URl Navigation lib
+npm i react router-dom
+
+# material UI Support lib
+npm i mui
+npm i @mui/material
+npm i @emotion/react
+npm i @emotion/styled
+
+# REST API ( Data Communicate)
+npm i axios
+(fetch/reactquery/redoxquery)
