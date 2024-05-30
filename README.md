@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+ # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -72,25 +72,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ## Code Include :
 
-node -v
-npm -v
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-brew install node
-npm install -g create-react-app
-create-react-app testreactapp
-cd testreactapp
+node -v\
+npm -v\
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\
+brew install node\
+npm install -g create-react-app\
+create-react-app testreactapp\
+cd testreactapp\
 
 npm start
 
-# URl Navigation lib
+# URL Navigation lib
 npm i react router-dom
 
 # material UI Support lib
-npm i mui
-npm i @mui/material
-npm i @emotion/react
+npm i mui\
+npm i @mui/material\
+npm i @emotion/react\
 npm i @emotion/styled
 
 # REST API ( Data Communicate)
-npm i axios
+npm i axios\
 (fetch/reactquery/redoxquery)
