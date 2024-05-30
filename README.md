@@ -83,7 +83,8 @@ cd testreactapp\
 npm start
 
 # URL Navigation lib
-npm i react router-dom
+npm i react-router-dom\
+npm i -D react-router-dom
 
 # material UI Support lib
 npm i mui\

@@ -81,9 +81,8 @@ const UserForm = props => {
                     opacity:'0.7',
                     backgroundColor:'#00c6e6'                    
                 }
-            
             }}
-            
+
             ></button>
 
 
